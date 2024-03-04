@@ -3,18 +3,12 @@
 
 - 👨‍💻 Front-End Developer.
 
-- 💬 The most used technologies by me **JavaScript, HTML, CSS, NodeJs.**
+- 🔥 The most used technologies by me **JavaScript, HTML, CSS, NodeJs.**
 <!--
 
 <br><br>
 
-<br><br>
-
-<br><br>
-
 <!--
-
-
 
 **thiagoads11/thiagoads11** is a repository because its `README.md` (this file) appears on your GitHub profile.
 -->

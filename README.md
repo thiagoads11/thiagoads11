@@ -4,16 +4,9 @@
 - 👨‍💻 Front-End Developer.
 
 - 🔥 The most used technologies by me **JavaScript, HTML, CSS, NodeJs.**
-<!--
+<br>
 
-<br><br>
-
-<!--
-
-**thiagoads11/thiagoads11** is a repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
- <div>
+<div>
    <a href="https://github.com/thiagoads11">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoads11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoads11&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -24,8 +17,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
- 
-<br>
 
 **Entre em contato com Thiago Menezes abaixo !**
  

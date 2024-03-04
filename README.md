@@ -1,9 +1,9 @@
-<h1 align="left"> Bem-vindo(a) <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, ao perfil Thiago Menezes - Dev 😁</h1>
+<h1 align="left"> Welcome <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, to the profile of Thiago Menezes - Dev 😁</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoads11&color=yellow" alt="Profile views" /> </p>
 
 - 👨‍💻 Front-End Developer.
 
-- 🔥 The most used technologies by me **JavaScript, HTML, CSS, NodeJs.**
+- 🔥 The most used technologies by me **JavaScript, HTML, CSS.**
 <br>
 
 <div>
@@ -17,8 +17,11 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<br>
 
-**Entre em contato com Thiago Menezes abaixo !**
+## Contact
+
+**Get in touch with Thiago Menezes below!**
  
 <div> 
   <a href="https://instagram.com/thmenezes.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
